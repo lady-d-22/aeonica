@@ -10,6 +10,7 @@
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package aeonica
+ * by Dannielle
  */
 
 get_header();
